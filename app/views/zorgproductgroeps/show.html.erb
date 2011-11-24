@@ -1,0 +1,30 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Code:</b>
+  <%= @zorgproductgroep.code %>
+</p>
+
+<p>
+  <b>Omschrijving:</b>
+  <%= @zorgproductgroep.omschrijving %>
+</p>
+
+<p>
+  <b>Ingangsdatum:</b>
+  <%= @zorgproductgroep.ingangsdatum %>
+</p>
+
+<p>
+  <b>Einddatum:</b>
+  <%= @zorgproductgroep.einddatum %>
+</p>
+
+<p>
+  <b>Mutatie:</b>
+  <%= @zorgproductgroep.mutatie %>
+</p>
+
+
+<%= link_to 'Edit', edit_zorgproductgroep_path(@zorgproductgroep) %> |
+<%= link_to 'Back', zorgproductgroeps_path %>

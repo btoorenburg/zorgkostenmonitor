@@ -1,0 +1,37 @@
+<%= form_for(@zorgproductgroep) do |f| %>
+  <% if @zorgproductgroep.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@zorgproductgroep.errors.count, "error") %> prohibited this zorgproductgroep from being saved:</h2>
+
+      <ul>
+      <% @zorgproductgroep.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :code %><br />
+    <%= f.number_field :code %>
+  </div>
+  <div class="field">
+    <%= f.label :omschrijving %><br />
+    <%= f.text_area :omschrijving %>
+  </div>
+  <div class="field">
+    <%= f.label :ingangsdatum %><br />
+    <%= f.date_select :ingangsdatum %>
+  </div>
+  <div class="field">
+    <%= f.label :einddatum %><br />
+    <%= f.date_select :einddatum %>
+  </div>
+  <div class="field">
+    <%= f.label :mutatie %><br />
+    <%= f.number_field :mutatie %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

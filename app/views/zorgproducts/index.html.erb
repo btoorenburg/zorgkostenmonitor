@@ -1,0 +1,31 @@
+<h1>Listing zorgproducts</h1>
+
+<table>
+  <tr>
+    <th>Code</th>
+    <th>Omschrijving</th>
+    <th>Ingangsdatum</th>
+    <th>Einddatum</th>
+    <th>Mutatie</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @zorgproducts.each do |zorgproduct| %>
+  <tr>
+    <td><%= zorgproduct.code %></td>
+    <td><%= zorgproduct.omschrijving %></td>
+    <td><%= zorgproduct.ingangsdatum %></td>
+    <td><%= zorgproduct.einddatum %></td>
+    <td><%= zorgproduct.mutatie %></td>
+    <td><%= link_to 'Show', zorgproduct %></td>
+    <td><%= link_to 'Edit', edit_zorgproduct_path(zorgproduct) %></td>
+    <td><%= link_to 'Destroy', zorgproduct, confirm: 'Are you sure?', method: :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Zorgproduct', new_zorgproduct_path %>

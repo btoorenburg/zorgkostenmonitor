@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  code: 1
+  omschrijving: MyText
+  ingangsdatum: 2011-11-18
+  einddatum: 2011-11-18
+  mutatie: 1
+
+two:
+  code: 1
+  omschrijving: MyText
+  ingangsdatum: 2011-11-18
+  einddatum: 2011-11-18
+  mutatie: 1

@@ -1,0 +1,30 @@
+desc "Imports data from CSV files into the database."
+task :import => :environment do
+  require "FasterCSV"
+
+  path = File.join(DATASET_PATH, (ENV["DATASET"] || "."))
+
+  ActiveRecord::Base.establish_connection
+  database = ActiveRecord::Base.connection
+  tables = (database.tables - SKIP_TABLES)
+
+  database.disable_referential_integrity do
+    Dir.chdir(path) do
+      Dir.glob("*.csv") do |file_name|
+        table_name = file_name[/(.+)\.csv/, 1]
+        next unless tables.include?(table_name)
+
+        rows = FasterCSV.read(file_name)
+
+        # Construct a list of column headings from the first row
+        heading_row = rows.shift.map { |heading| database.quote_column_name(heading) }.join(",")
+
+        rows.each do |row|
+          # Need to escape the data correctly so that inserting is successful
+          row_data = row.map { |item| database.quote(item) }.join(",")
+          database.execute("INSERT INTO %s(%s) VALUES (%s);" % [table_name, heading_row, row_data])
+        end
+      end
+    end
+  end
+end

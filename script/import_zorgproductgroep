@@ -1,0 +1,49 @@
+# require 'fastercsv'
+# FasterCSV.foreach("#{RAILS_ROOT}/myfile.csv") do |row|
+#  record = User.new(
+#     :name    => row[0], # first column of csv file
+#     :address => row[1], # second column
+#     :email   => row[2]  # third
+#   )
+#   record.save
+# end
+
+require 'fastercsv'
+
+# CSV_Import met per regel een record.
+FasterCSV.foreach("test.txt", {:headers => true, :quote_char=>'', :col_sep =>";"}) do |zorgproductgroep_csv|
+    puts zorgproductgroep_csv.inspect
+    zorgproductgroep_csv = Zorgproductgroep.new(
+      'code' =>  zorgproductgroep_csv['Productgroep_code'],
+      'omschrijving' => zorgproductgroep_csv['Productgroep_omschrijving'],
+      'ingangsdatum' => zorgproductgroep_csv['Ingangsdatum'],
+      'einddatum' => zorgproductgroep_csv['Einddatum'],
+      'mutatie' => zorgproductgroep_csv['Mutatie']
+    )
+    zorgproductgroep_csv.save
+
+  zorgproductgroep_db = Zorgproductgroep.find(zorgproductgroep_csv.productgroep_code)
+  if zorgproductgroep_db
+    # zorgproductgroep is gevonden in de database.
+    # De gegevens worden nu gewijzigd met de nieuwe gegevens als er wijzigingen aanwezig zijn.
+    if zorgproductgroep_db == zorgproductgroep
+      # Er zijn dan geen wijzigingen. Er wordt niets gewijzigd.
+    else
+       # zorgproductgroep in de database wordt nu gewijzigd.
+      zorgproductgroep.save
+    end
+  else
+      zorgproductgroep_db = Zorgproductgroep.new
+      zorgproductgroep_db => zorgproductgroep_csv
+      zorgproductgroep_db.save
+  end
+   begin
+     zorgproductgroep.save
+     # Alles is goed gesaved
+   rescue
+     # De validatie van de invoer is onjuist.
+     # Het object is niet bewaard.
+   end
+
+ end
+

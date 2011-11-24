@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2012 (http://www.altova.com) by Bas Toorenburg (TIM Bedrijfskundig Advies) -->
+<Import>
+	<Row>
+		<Zorgproductgroep_x0020_code>000000</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Topboom</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>010501</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Infectie en parasitair - Infecties met hoofdzakelijk seksuele overdracht</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>011101</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Infectie en parasitair - Virusinfecties gekenmerkt door huid- en slijmvliesafwijkingen</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>011301</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Infectie en parasitair - Ziekte door Humaan Immunodeficientievirus (HIV)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>019999</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Infectie en parasitair - Overige infectieziekten</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>020107</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Nieuwvormingen - Maligne neoplasmata mamma</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>020108</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Nieuwvormingen - Maligne neoplasmata vrouwelijke geslachtsorganen</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>020109</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Nieuwvormingen - Maligne neoplasmata mannelijke geslachtsorganen/prostaat</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>020110</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Nieuwvormingen - Maligne neoplasmata nier/urinewegen</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>020112</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Nieuwvormingen - Maligne neoplasmata schildklier/andere endocriene klieren</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>020117</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Nieuwvormingen - Maligne neoplasmata slecht omschreven/niet gespecificeerde lokalisaties</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>028899</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Nieuwvormingen - Benigne neoplasma spijsverteringsstelsel (incl grote speekselklieren)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>028999</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Nieuwvormingen - Maligne- en neoplasmata onzeker/onbekend gedrag lymfoid/hematopoetisch/verwant weefsel</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>029099</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Nieuwvormingen - Maligne neoplasmata ademhalingsstelsel/intrathoracale organen (incl metastasen)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>029199</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Nieuwvormingen - Maligne neoplasmata spijsverteringsstelsel (wd)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>029299</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Nieuwvormingen - Maligne neoplasmata lip/mond-/keelholte/hals</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>029399</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Nieuwvormingen - Maligne neoplasmata bot/gewrichtskraakbeen/weke delen (incl botmetastasen)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>029499</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Nieuwvormingen - Melanoom/overige maligne neoplasmata huid/premaligne dermatosen</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>029699</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Nieuwvormingen - Benigne- en neoplasma onzeker/onbekend gedrag overige/niet gespecificeerde endocriene klieren</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>029799</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Nieuwvormingen - Neoplasmata meningen/hersenen/(centr)zenuwstelsel nec-nno (incl metastasen) (wd)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>029899</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Nieuwvormingen - Benigne neoplasmata huid</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>029999</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Nieuwvormingen - Benigne neoplasma en neoplasma met onzeker/onbekend gedrag overige/niet gespecificeerde lokalisaties</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>039899</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Bloed/bloedv org /immuunsyst - Stollingsst/purpura/ov hemorr aand/bep aand immuunsyst (excl sarcoidose long) (wd)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>039999</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Bloed/bloedv org /immuunsyst - Voedings-/hemolytische-/aplastische-/anemie nec/ziekte bloed/-vormende organen nec</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>040201</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Endocrien/voeding/stofwisseling - Diabetes mellitus</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>040401</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Endocrien/voeding/stofwisseling - Aandoeningen overige endocriene klieren</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>049799</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Endocrien/voeding/stofwisseling - Stofwisselingsstoornissen</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>049899</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Endocrien/voeding/stofwisseling - Aandoeningen schildklier</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>049999</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Endocrien/voeding/stofwisseling - Ondervoeding/vetzucht/andere overvoeding</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>059899</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Psychisch en gedrag - Psychische stoornissen (incl niet-organische sexuele stoornis) (wd)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie>2</Mutatie>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>060301</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Zenuwstelsel - Extrapiramidale aandoeningen/aandoeningen met abnormale bewegingen</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>060607</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Zenuwstelsel - Slaapstoornissen (wd)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>069499</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Zenuwstelsel - Aand zenuw/-wortels/-plexus/polyneuropath/ov aand per zenuwst (incl benigne neopl/incl letsel) (wd)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>069599</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Zenuwstelsel - Overige aandoeningen zenuwstelsel (incl duizeligheid/pijn nec/neuro-infecties) (wd)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>069799</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Zenuwstelsel - Migraine/overige hoofdpijnsyndromen</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>069899</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Zenuwstelsel - Epilepsie/status epilepticus/convulsies (wd)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>070401</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Oog en adnexen - Aandoeningen lens</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>070601</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Oog en adnexen - Glaucoom</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>070801</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Oog en adnexen - Aandoeningen nervus opticus/optische banen (wd)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>079499</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Oog en adnexen - Aandoeningen oogspieren/stoornissen in binoculaire oogbewegingen</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>079599</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Oog en adnexen - Visuele stoornissen/blindheid/stoornissen in refractie/accommodatie</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>079699</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Oog en adnexen - Overige aandoeningen oog/adnexen (incl congenitaal) (wd)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>079799</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Oog en adnexen - Aandoeningen choroidea/retina/corpus vitreum/endoftalmitis (wd)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>079899</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Oog en adnexen - Aandoeningen conjunctiva/sclera/cornea/iris/corpus ciliare/oogbol (incl letsel)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>079999</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Oog en adnexen - Aandoeningen ooglid/traanapparaat/orbita (incl congenitaal/incl orbitatumor)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>089999</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Oor en processus mastoideus - Aandoeningen oor (incl congenitaal)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>090301</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Hart en vaatstelsel - Hypertensieve ziekten</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>090501</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Hart en vaatstelsel - Pulmonale hartziekten/ziekten longcirculatie</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>099499</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Hart en vaatstelsel - Ischemische hartziekten (incl pijn op borst) (wd)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>099599</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Hart en vaatstelsel - Overige/niet gespecificeerde aandoeningen hart en vaatstelsel</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>099699</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Hart en vaatstelsel - Ziekten arterien/arteriolen/capillairen (incl precerebrale arterien) (wd)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>099799</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Hart en vaatstelsel - Ziekten venen/lymfevaten/lymfeklieren niet elders geclassificeerd (wd)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>099899</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Hart en vaatstelsel - Overige hartziekten/acuut reuma (incl (sub)acute reum artritis)/chron reum hartziekten (wd)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>099999</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Hart en vaatstelsel - Cerebrovasculaire ziekten (incl TIA) (wd)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>100101</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Ademhalingsstelsel - Acute infecties bovenste luchtwegen</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>100501</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Ademhalingsstelsel - Chronische aandoeningen onderste luchtwegen</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>109599</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Ademhalingsstelsel - Aandoeningen pleura (wd)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>109699</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Ademhalingsstelsel - Overige aandoeningen ademhalingsstelsel (incl benigne longtumor/incl symptomatologie) (wd)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>109799</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Ademhalingsstelsel - Overige aandoeningen bovenste luchtwegen (incl stoornissen reuk-/smaakzin)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>109999</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Ademhalingsstelsel - Influenza/pneumonie/ov acute infecties onderste luchtw/sarcoidose long/interstitiele aand</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>110101</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Spijsverteringsstelsel - Ziekten mondholte/speekselklieren/kaken</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>110401</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Spijsverteringsstelsel - Hernia</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>110801</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Spijsverteringsstelsel - Ziekten lever</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>110901</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Spijsverteringsstelsel - Aandoeningen galblaas/galwegen/pancreas</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>119499</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Spijsverteringsstelsel - Ov ziekten spijsverteringsst (incl intest infect/hemorr/sinus pilon/incont faeces/buikpijn (wd)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>119599</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Spijsverteringsstelsel - Ziekten appendix/peritoneum</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>119899</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Spijsverteringsstelsel - Ziekte van Crohn/colitis ulcerosa</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>119999</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Spijsverteringsstelsel - Ziekten slokdarm/maag/duodenum (incl intestinale malabsorptie)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>120201</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Huid en subcutis - Bulleuze dermatosen</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>120301</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Huid en subcutis - Dermatitis/eczeem</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>120401</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Huid en subcutis - Papulosquameuze dermatosen</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>120701</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Huid en subcutis - Aandoeningen huidadnexen</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>129999</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Huid en subcutis - Infecties en overige aandoeningen huid/subcutis (wd)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>131999</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Botspierstelsel-bindweefsel/Letsel - Ziekten botspierstelsel/bindweefsel en late gevolgen/vroege compl trauma (wd)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>140301</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Urogenitaal - Nierinsufficientie</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>140401</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Urogenitaal - Urolithiasis</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>140801</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Urogenitaal - Aandoeningen mamma</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>149399</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Urogenitaal - Aandoeningen vrouwelijke organen (excl prolaps/infertiliteit/incl congenitaal)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>149599</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Urogenitaal - Ziekten glomeruli en overige aandoeningen nier/ureter (incl letsel/incl congenitaal)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>149899</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Urogenitaal - Overige aandoeningen mannelijke geslachtsorganen (incl congenitaal/incl varicokele)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>149999</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Urogenitaal - Overige aandoeningen urinewegen/prostaat (incl genitale prolaps) (wd)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>150101</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Zwangerschap/bevalling/kraambed - Zwangerschap eindigend in misgeboorte</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>159899</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Zwangerschap/bevalling/kraambed - Bevalling</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>159999</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Zwangerschap/bevalling/kraambed - Zwangerschap</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>170901</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Congenitaal/chromosomaal - Congenitale misvormingen botspierstelsel</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>179799</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Congenitaal/chromosomaal - Cong misvormingen zenuwst/hart/vaatst/aangezicht/hals/spijsvert st/gespl lip/gehemelte/ov</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>181105</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Symptomen/afwijkende klin bevindingen/labuitslagen - Cervixafwijkingen incl afwijkende cervixcytologie</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>182199</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Symptomen/Ov contacten - Alg sympt (oa collaps/vergr lymfkl /malaise/vermoeidh/koorts)/observ/onderz/ziekte nno</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>189599</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Symptomen/afwijkende klin bevindingen/labuitslagen - Slikklachten/zwelling in de hals/diepe hals abces</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>189999</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Symptomen/afwijkende klin bevindingen/labuitslagen - Spraak en stemaandoeningen</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>191301</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Letsel/vergiftiging/gevolgen uitwendige oorzaken - Gevolgen corpus alienum via natuurlijke lichaamsopening</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>192001</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Letsel/vergiftiging/gevolgen uitwendige oorzaken - Complicaties chirurgische/medische behandeling nec (wd)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>199199</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Letsel/vergiftiging/gevolgen uitwendige oorzaken - Ov/niet gespec gevolgen uitw oorzaken (incl urticaria/erytheem)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>199299</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Letsel/vergiftiging/gevolgen uitwendige oorzaken - Letsels (excl oog/zenuw/corp aliena/bevriezing/brandwonden)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>199699</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Letsel/vergiftiging/gevolgen uitwendige oorzaken - Vergiftiging door geneesmiddelen/stoffen nec</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>199799</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Letsel/vergiftiging/gevolgen uitwendige oorzaken - Bevriezing/brandwonden/etsingen</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>210101</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Overige contacten gezondheidszorg - Algemeen onderzoek personen zonder klachten/zonder vermelding diagnose</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>210301</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Overige contacten gezondheidszorg - Anticonceptie</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>219699</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Overige contacten gezondheidszorg - Personen met potentieel gezondheidsrisico</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie>2</Mutatie>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>219799</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Overige contacten gezondheidszorg - Contact ivm specifieke verrichtingen/andere zorg</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>219899</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Overige contacten gezondheidszorg - Specifiek screeningsonderzoek</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>972800</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>WBMV - Klinische genetica en overige klinische genetica</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>972802</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>WBMV - Zenuwstelsel (incl aanverwante diagnosen)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>972804</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Infertiliteit (incl WBMV)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>979001</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Hart/long/hartlongtransplantatie/stamceltherapie/ritmechir/AICD-implant/PTCA/CABG/OpenHartOperatie (incl WBMV)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>979002</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Nier-/lever-/darm-/pancreastransplantatie (incl WBMV)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie>2</Mutatie>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>979003</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Stamceltransplantatie (autoloog en allogeen) (incl WBMV)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie>2</Mutatie>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>979004</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Gespecialiseerde brandwondenzorg</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>990003</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>ICC (excl ICC in specialisme-specifieke pre-MDC)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>990004</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Plastische chirurgie</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>990011</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Chronische thuisbeademing</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>990016</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Kindergeneeskunde</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>990017</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Neonatologie</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>990022</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Complex chronisch longfalen</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>990026</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Allergologie</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>990027</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Revalidatiegeneeskunde</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>990029</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Psychiatrie</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>990030</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Kinderneurologie (excl epilepsie/ excl slaapstoornissen)</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie>2</Mutatie>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>990035</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Klinische geriatrie</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>990040</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Palliatieve zorg</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>990061</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Radiotherapie</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>990062</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Radiologie</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>990089</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Anesthesiologie</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+	<Row>
+		<Zorgproductgroep_x0020_code>991900</Zorgproductgroep_x0020_code>
+		<Zorgproductgroep_x0020_omschrijving>Audiologie</Zorgproductgroep_x0020_omschrijving>
+		<Ingangsdatum>20120101</Ingangsdatum>
+		<Einddatum/>
+		<Mutatie/>
+	</Row>
+</Import>

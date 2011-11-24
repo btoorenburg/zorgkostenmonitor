@@ -1,0 +1,21 @@
+desc "Exports the database contents into CSV files."
+task :export => :environment do
+  require "FasterCSV"
+  require "FileUtils"
+
+  path = File.join(DATASET_PATH, (ENV["DATASET"] || "."))
+
+  FileUtils.mkdir_p(path)
+
+  ActiveRecord::Base.establish_connection
+  database = ActiveRecord::Base.connection
+
+  (database.tables - SKIP_TABLES).each do |table_name|
+    FasterCSV.open(File.join(path, "#{table_name}.csv"), "w") do |csv|
+      # Write column names
+      csv << database.columns(table_name).map(&:name)
+      # Write rows
+      database.select_rows("SELECT * FROM %s" % table_name).each { |row| csv << row }
+    end
+  end
+end
